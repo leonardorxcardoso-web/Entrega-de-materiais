@@ -1,4 +1,5 @@
-streamlit==1.39.0
+streamlit
 pandas
 openpyxl
-streamlit-drawable-canvas==0.12.0
+Pillow
+streamlit-drawable-canvas
